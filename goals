@@ -1,0 +1,7 @@
+Authenticate terraform with aws cred.
+Create default vpc if doesn't not exist.
+use the data source to get all the availability zone within a region.
+Create default subnet if doesn't exist
+Create scurity group for the jenkins instance
+Create jenkins server
+Create null resource and execute jenkins.sh script.
